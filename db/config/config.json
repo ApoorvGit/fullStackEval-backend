@@ -1,0 +1,25 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "cms",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "docker": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "cms",
+      "host": "backenddb",
+      "dialect": "postgres",
+      "port": 5432
+    },
+    "test": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "cms",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
+  
